@@ -122,9 +122,3 @@ To understand why, simply look at the code above. Which class would you rather w
 When opening up a class, `attr_accessor` and friends allow you to get a high level overview of the class right from the start.
 
 As developers we spend more time reading rather than writing code, so it's important that the code we write be clear, concise and eloquent. We want to be kind to our future selves (when we come back to the programs we've written) and to other developers who will work with our code. 
-
-## Resources
-
-* [Video Review- Object Properties](https://www.youtube.com/watch?v=ab11lJJKm8M) 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-oo-macros-readme'>Object Accessors</a> on Learn.co and start learning to code for free.</p>
