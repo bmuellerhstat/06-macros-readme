@@ -90,7 +90,7 @@ class Person
 end
 ```
 
-####Attribute Accessors
+#### Attribute Accessors
 If we know that we are going to be reading and writing to the `name` attribute on our `Person` class, we can use another macro called an attribute accessor.
 
 So this code:
